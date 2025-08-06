@@ -1,4 +1,6 @@
 
+# Este repositório reúne o cronograma completo de estudos para o primeiro semestre, organizado em blocos e dividido por datas. 
+
 ## Primeiro Semestre:
 
 ### Cronograma disponibilizado:
